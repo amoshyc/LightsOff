@@ -30,6 +30,7 @@ public class Logic {
                 this.prob[r][c] = false;
 
         int rnd = randint(1, N * N / 2);
+        if (rnd % 2 == 0) rnd++;
         System.out.printf("rnd: %d\n", rnd);
 
         for (int i = 0; i < rnd; i++) {
