@@ -11,6 +11,6 @@ A Simple LightsOff game building with libgdx
 
 ## Origin
 
-這並不是獨創遊戲。請看 [維基百科](https://en.wikipedia.org/wiki/Lights_Out_(game)
+這並不是獨創遊戲。請看 [維基百科]( https://en.wikipedia.org/wiki/Lights_Out_(game) )
 
 另外，這個遊戲也是一個程式題目，[poj 3279](http://poj.org/problem?id=3279)
